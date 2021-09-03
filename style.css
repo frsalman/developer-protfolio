@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#firstSection{
+    background-image:url('images/top-banner.png');
+    background-repeat: no-repeat;
+    display: flex;
+}
+.textArea{
+    width: 50%;
+    height:auto;
+    margin-left: 92px;
+    margin-top: 41px;
+    padding: 32px;
+
+}
+.textArea h1{
+    font-size: 50px;
+    font-family:'Poppins', sans-serif ;
+    font-weight: 550;
+   
+}
+.secondTXt{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.textArea .salman{
+    color: orange;
+}
+.textArea h3{
+    padding-bottom: 30px;
+    font-weight: 600;
+}
+.textArea p{
+    font-weight: 400;
+    color: dimgray;
+    padding-bottom:15px;
+}
+.textArea .Anchor-button{
+    background: linear-gradient( 45deg, lightsalmon, tomato);
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 700;
+    text-transform:uppercase ;
+}
+#secondSection{
+    
+   background-image:url('images/dream-bg.png');
+        background-repeat: no-repeat;
+        background-position: right;
+        display: flex;
+    
+}
+#secondSection .image-Area{
+    margin-left: 92px;
+    width: 49%;
+   
+}
+#secondSection .txtArea{
+    margin-top: 110px;
+    margin-left: 42px;
+}
+#secondSection h1{
+    font-size: 40px;
+    font-weight: 500;
+    padding-bottom: 50px;
+}
+#secondSection h3{
+    padding-bottom: 30px;
+    font-weight: 600;
+}
+#secondSection p{
+    font-weight: 400;
+    color: dimgray;
+    padding-bottom:15px;
+    width: 668px;
+}
+#secondSection .Anchor-button{
+   
+        background: linear-gradient( 45deg, lightsalmon, tomato);
+        text-decoration: none;
+        color: #fff;
+        border-radius: 5px;
+        padding: 10px 40px;
+        font-weight: 700;
+        text-transform:uppercase ;
+    
+}
